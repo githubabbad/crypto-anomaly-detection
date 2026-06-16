@@ -1,4 +1,4 @@
-# crypto Anomaly Detection
+# Crypto Anomaly Detection
 Comparative Analysis of Unsupervised Anomaly Detection Models for Cryptocurrency Transactions using the Elliptic Bitcoin Dataset.
 # Cryptocurrency Transaction Anomaly Detection
 
