@@ -1,0 +1,4 @@
+Model,Precision,Recall,F1_Score
+Isolation Forest,0.000429,0.00022,0.000291
+Local Outlier Factor,0.117672,0.120572,0.119105
+DBSCAN,0.040419,0.354904,0.072573

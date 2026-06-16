@@ -1,0 +1,16 @@
+
+FINAL EXPERIMENTAL FINDINGS
+
+1. Isolation Forest performed poorly on the Elliptic Bitcoin dataset,
+suggesting that illicit cryptocurrency transactions are not globally isolated anomalies.
+
+2. Local Outlier Factor (LOF) achieved the best balance between
+precision and recall, indicating that fraudulent blockchain activities
+behave more like local density anomalies.
+
+3. DBSCAN achieved high recall but very low precision,
+meaning it detected many suspicious transactions but also generated
+a large number of false positives.
+
+4. Overall, LOF emerged as the most suitable unsupervised anomaly
+detection model for this cryptocurrency transaction dataset.

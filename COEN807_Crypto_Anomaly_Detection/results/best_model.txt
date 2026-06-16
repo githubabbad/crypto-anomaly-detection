@@ -1,0 +1,5 @@
+Model        Local Outlier Factor
+Precision                0.117672
+Recall                   0.120572
+F1_Score                 0.119105
+Name: 1, dtype: object
