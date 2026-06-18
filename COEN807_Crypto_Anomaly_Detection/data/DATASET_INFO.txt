@@ -1,0 +1,21 @@
+Elliptic Bitcoin Dataset
+
+This project uses the Elliptic Bitcoin Dataset for cryptocurrency transaction anomaly detection.
+
+The raw dataset is not included in this repository due to its size.
+
+Dataset Source:
+https://www.kaggle.com/datasets/ellipticco/elliptic-data-set
+
+To reproduce the results:
+
+1. Download the dataset from the source above.
+2. Extract the dataset files.
+3. Place the dataset files inside:
+
+data/raw/
+
+4. Run the notebook:
+
+notebooks/crypto_anomaly_detection.ipynb
+
